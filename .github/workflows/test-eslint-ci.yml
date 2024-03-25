@@ -1,4 +1,4 @@
-name: Code Quality checks
+name: Code Quality checksgit
 on:
   pull_request:
     branches: [main]
