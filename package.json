@@ -1,0 +1,24 @@
+{
+  "name": "test-for-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/figura01/test-for-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/figura01/test-for-ci/issues"
+  },
+  "homepage": "https://github.com/figura01/test-for-ci#readme",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "prettier": "3.2.5"
+  }
+}
